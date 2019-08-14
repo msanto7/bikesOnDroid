@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234380210651",
+    "firebase_url": "https://bikesondroid.firebaseio.com",
+    "project_id": "bikesondroid",
+    "storage_bucket": "bikesondroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234380210651:android:efc9ddab1aba6a80",
+        "android_client_info": {
+          "package_name": "com.example.bikesondroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234380210651-fj38npi1imgjf5rpcn7qd87srl2gk3g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqqhXeaClljZXYF1l3uQ9V6ICjqFif5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234380210651-fj38npi1imgjf5rpcn7qd87srl2gk3g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
